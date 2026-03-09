@@ -41,6 +41,7 @@ Failure mode: undetected production incidents.
 ## 4. Observability & Monitoring
 
 Systems MUST emit:
+
 - p50 / p95 / p99 latency metrics
 - Traffic and error metrics
 - Correlation IDs across boundaries
